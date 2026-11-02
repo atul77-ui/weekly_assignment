@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\bin\Debug\net10.0\weekly_assignment.exe
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\bin\Debug\net10.0\weekly_assignment.deps.json
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\bin\Debug\net10.0\weekly_assignment.runtimeconfig.json
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\bin\Debug\net10.0\weekly_assignment.dll
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\bin\Debug\net10.0\weekly_assignment.pdb
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\obj\Debug\net10.0\weekly_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\obj\Debug\net10.0\weekly_assignment.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\obj\Debug\net10.0\weekly_assignment.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\obj\Debug\net10.0\weekly_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\obj\Debug\net10.0\weekly_assignment.dll
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\obj\Debug\net10.0\refint\weekly_assignment.dll
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\obj\Debug\net10.0\weekly_assignment.pdb
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\obj\Debug\net10.0\weekly_assignment.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\year_2nd\system_design_development\weekly_assignment\obj\Debug\net10.0\ref\weekly_assignment.dll
